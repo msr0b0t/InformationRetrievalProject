@@ -1,0 +1,2 @@
+# InformationRetrievalProject
+Movie reviews clustering.
